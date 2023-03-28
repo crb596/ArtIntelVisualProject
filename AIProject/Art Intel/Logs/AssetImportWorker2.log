@@ -1,0 +1,161 @@
+Unity Editor version:    2020.3.30f1 (1fb1bf06830e)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.7.2 (Build 20G1020)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        65536 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+49732
+Successfully changed project path to: /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel
+/Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Assets
+GfxDevice: creating device client; threaded=0
+2023-03-08 22:19:24.418 Unity[5781:42065] iMac preferred device: AMD Radeon Pro Vega 64 (high power)
+2023-03-08 22:19:24.418 Unity[5781:42065] Metal devices available: 1
+2023-03-08 22:19:24.419 Unity[5781:42065] 0: AMD Radeon Pro Vega 64 (high power)
+2023-03-08 22:19:24.419 Unity[5781:42065] Using device AMD Radeon Pro Vega 64 (high power)
+Initializing Metal device caps: AMD Radeon Pro Vega 64
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56781
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001240 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 43.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Domain Reload Profiling:
+	ReloadAssembly (706ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (513ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (197ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (100ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 40.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.773 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2806ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (2484ms)
+			LoadAssemblies (1627ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (348ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.006330 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.463175 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Art Intel.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Art Intel.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FC97AD69-79D7-CC44-8369-8B0EC25C0F94}"
+[C# Project]   005: EndProject
+[C# Project]   006: Global
+[C# Project]   007: 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+[C# Project]   008: 		Debug|Any CPU = Debug|Any CPU
+
+[C# Project] New /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Art Intel.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect.Tests", "Unity.2D.PixelPerfect.Tests.csproj", "{4F504A42-B4DF-F533-26F8-8E4CF164A70A}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{F1F374B4-DA91-94A1-774B-53E529093CAF}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Mathematics", "Unity.Mathematics.csproj", "{F7B103DD-2ED3-7136-1AFB-9CF42D147AC4}"
+[C# Project] Writing /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 643
+
+[C# Project] Current /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Assembly-CSharp.csproj:
+[C# Project]   643:  <Reference Include="Unity.2D.Animation.Editor">
+[C# Project]   644:  <HintPath>/Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+[C# Project]   645:  </Reference>
+[C# Project]   646:  <Reference Include="Unity.InternalAPIEngineBridge.001">
+[C# Project]   647:  <HintPath>/Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+
+[C# Project] New /Volumes/Backup Plus/Unity/ArtIntel/AIProject/Art Intel/Assembly-CSharp.csproj:
+[C# Project]   643:   </ItemGroup>
+[C# Project]   644:   <ItemGroup>
+[C# Project]   645:     <ProjectReference Include="Unity.2D.Animation.Editor.csproj">
+[C# Project]   646:       <Project>{4F806086-420F-3A28-322F-B53940670EC5}</Project>
+[C# Project]   647:       <Name>Unity.2D.Animation.Editor</Name>
